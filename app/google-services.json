@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811140859216",
+    "project_id": "gritty-36657",
+    "storage_bucket": "gritty-36657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811140859216:android:afb7dfc643b1569bb2d855",
+        "android_client_info": {
+          "package_name": "com.project.grittycc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811140859216-fujonn2uk65qaqia4oqe737uka8qi3qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.grittycc",
+            "certificate_hash": "b80561953011189dd8304b08a77dcf22c13dd5fc"
+          }
+        },
+        {
+          "client_id": "811140859216-3b1lovgds4bhbg1l1m8horm8nt86f0d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9077xsPsMNc1XYr_qkpkuQaCQGC6LQt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811140859216-3b1lovgds4bhbg1l1m8horm8nt86f0d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
